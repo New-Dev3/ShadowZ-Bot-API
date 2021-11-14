@@ -1,0 +1,36 @@
+{
+  "name": "ShadowZ Bot API",
+  "version": "0.0.4",
+  "description": "A very lightweight and chatbot with multi language support",
+  "main": "src/kuki.js",
+  "scripts": {
+    "start": "node src/kuki.js"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "license": "GNU General Public License v3.0",
+  "keywords": [
+    "ShadowZ",
+    "chatbot",
+    "ai",
+    "bot"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/New-Dev3/ShadowZ-Bot-API"
+  },
+  "author": {
+    "name": "New-Dev3",
+    "age": "15"
+  },
+  "engines": {
+    "node": ">=0.12"
+  },
+  "files": [
+    "src"
+  ]
+}
